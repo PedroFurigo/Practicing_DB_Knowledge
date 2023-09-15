@@ -1,6 +1,8 @@
 # Practicing_DB_Knowledge
 A project using Postgres to enhance knowledge in databases, including SELECT and other commands.
 
+Yes, it's in Portuguese. I'm sorry about that. It's an exercise from university that I'm studying.
+
 
 # Requirements
 PostgreSQL 14+
